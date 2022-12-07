@@ -1,0 +1,7 @@
+{
+    "prompt": "What is your favorite color?",
+    "acknowledgment": {
+        "response": "Blue.",
+        "exact_match": true
+    }
+}
